@@ -1,0 +1,3 @@
+# URL from Little Red Book
+
+- [基于YOLOv8的金属工件缺陷检测系统](https://www.xiaohongshu.com/explore/66bb7ba3000000001e01c524?app_platform=ios&app_version=8.52&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBj7ii-jnHPh5NigkdPzAIjvX6lZ6s3UcljZSKsTag_rU=&author_share=1&xhsshare=WeixinSession&shareRedId=N0gzQTM9Rjs6TEZFSkoyPTtGPUBHPEo6&apptime=1725719901&share_id=2074ad98d92349409bb09d1118f63693&wechatWid=3c64583065b328578cd9930acbeaa60a&wechatOrigin=menu)
